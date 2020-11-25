@@ -1,2 +1,2 @@
-# html-css-js-testes
-Repositório destinado a testes de HTML, CSS e JS
+# Front-End Testes
+Repositório destinado a testes de Front-End: HTML, CSS e JS
